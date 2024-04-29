@@ -1,0 +1,84 @@
+"journal": {
+    "nomJournal": "Music Genres Digest",
+    "phraseAccroche": "Votre source d'informations sur les dernières tendances et les nouveautés dans les genres de musique",
+    "texteAppelAction": "Abonnez-vous pour recevoir notre newsletter et découvrir les dernières actualités musicales !",
+    "articlePrincipal": {
+      "titre": "Les tendances musicales de l'année : ce que vous devez écouter en 2024",
+      "description": "Découvrez les nouveaux artistes, les albums et les genres qui dominent la scène musicale cette année.",
+      "date": "25 Avril 2024",
+      "theme": "Tendances musicales",
+      "image":""
+    },
+    "articles": [
+      {
+        "titre": "Guide du genre : une introduction au jazz et ses sous-genres",
+        "date": "20 Avril 2024",
+        "theme": "Jazz",
+        "image":""
+      },
+      {
+        "titre": "Entretien avec un expert : l'évolution du hip-hop et son impact culturel",
+        "date": "15 Avril 2024",
+        "theme": "Hip-hop",
+        "image":""
+      },
+      {
+        "titre": "Top 10 des albums indie à ne pas manquer cette année",
+        "date": "5 Avril 2024",
+        "theme": "Indie",
+        "image":""
+      },
+      {
+        "titre": "Analyse : l'influence de la musique électronique sur la culture moderne",
+        "date": "28 Mars 2024",
+        "theme": "Électronique",
+        "image":""
+      },
+      {
+        "titre": "Les dernières nouvelles du monde de la musique classique",
+        "date": "20 Mars 2024",
+        "theme": "Classique",
+        "image":""
+      }
+    ],
+    "themes": [
+      {
+        "nom": "Jazz",
+        "description": "Articles et analyses sur le jazz et ses nombreux sous-genres, des origines aux artistes contemporains."
+      },
+      {
+        "nom": "Hip-hop",
+        "description": "Actualités, interviews et critiques sur le hip-hop et son influence sur la culture contemporaine."
+      },
+      {
+        "nom": "Indie",
+        "description": "Découvrez les dernières nouveautés et les artistes indépendants émergents dans le monde de la musique indie."
+      },
+      {
+        "nom": "Électronique",
+        "description": "Exploration des tendances, des artistes et des événements dans la musique électronique et la culture DJ."
+      },
+      {
+        "nom": "Classique",
+        "description": "Actualités, critiques et analyses sur la musique classique, de l'histoire aux interprétations contemporaines."
+      }
+    ],
+    "auteurs": [
+      {
+        "prenom": "Sophie",
+        "typeExperience": "Journaliste musical",
+        "presentation": "Passionnée de musique, je vous offre une couverture complète des dernières tendances et des événements dans le monde de la musique."
+      },
+      {
+        "prenom": "Antoine",
+        "typeExperience": "Critique musical",
+        "presentation": "Avec des années d'expérience dans la critique musicale, je vous offre des analyses perspicaces et des recommandations sur les dernières sorties et les tendances musicales."
+      },
+      {
+        "prenom": "Marie",
+        "typeExperience": "Expert en musique électronique",
+        "presentation": "Spécialisée dans la musique électronique, je partage mes connaissances sur les artistes, les festivals et les tendances dans ce genre musical en constante évolution."
+      }
+    ]
+  }
+}
